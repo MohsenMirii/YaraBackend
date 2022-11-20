@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\bin\Release\netcoreapp3.1\BusinessLogic.deps.json
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\bin\Release\netcoreapp3.1\BusinessLogic.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\bin\Release\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\bin\Release\netcoreapp3.1\CrossCuttingService.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\bin\Release\netcoreapp3.1\DataModel.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\bin\Release\netcoreapp3.1\CrossCuttingService.pdb
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\bin\Release\netcoreapp3.1\DataModel.pdb
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\BusinessLogic\obj\Release\netcoreapp3.1\BusinessLogic.pdb

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Borhan</_PublishTargetUrl>
+    <History>True|2022-10-27T09:08:16.1887517Z;True|2022-10-26T21:05:58.9922210-12:00;True|2022-10-26T20:45:20.9583094-12:00;False|2022-10-26T20:21:32.0808392-12:00;True|2022-10-26T20:10:08.4352841-12:00;True|2022-10-26T20:04:08.6869631-12:00;</History>
+  </PropertyGroup>
+</Project>

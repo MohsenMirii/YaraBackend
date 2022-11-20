@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\CrossCuttingService\bin\Release\netcoreapp3.1\CrossCuttingService.deps.json
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\CrossCuttingService\bin\Release\netcoreapp3.1\CrossCuttingService.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\CrossCuttingService\bin\Release\netcoreapp3.1\CrossCuttingService.pdb
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\CrossCuttingService\obj\Release\netcoreapp3.1\CrossCuttingService.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\CrossCuttingService\obj\Release\netcoreapp3.1\CrossCuttingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\CrossCuttingService\obj\Release\netcoreapp3.1\CrossCuttingService.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\CrossCuttingService\obj\Release\netcoreapp3.1\CrossCuttingService.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\CrossCuttingService\obj\Release\netcoreapp3.1\CrossCuttingService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\CrossCuttingService\obj\Release\netcoreapp3.1\CrossCuttingService.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\CrossCuttingService\obj\Release\netcoreapp3.1\CrossCuttingService.pdb

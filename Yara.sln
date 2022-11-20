@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yara.WebApi", "Borhan.WebApi\Yara.WebApi.csproj", "{740DF6CA-0FBF-4C25-884F-E387259A7252}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrossCuttingService", "CrossCuttingService\CrossCuttingService.csproj", "{202BE52F-CF53-46FE-97F6-69DFD416EF58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{740DF6CA-0FBF-4C25-884F-E387259A7252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740DF6CA-0FBF-4C25-884F-E387259A7252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740DF6CA-0FBF-4C25-884F-E387259A7252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740DF6CA-0FBF-4C25-884F-E387259A7252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202BE52F-CF53-46FE-97F6-69DFD416EF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202BE52F-CF53-46FE-97F6-69DFD416EF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202BE52F-CF53-46FE-97F6-69DFD416EF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202BE52F-CF53-46FE-97F6-69DFD416EF58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE84EE56-0EBA-4ABA-841B-9DC997D61CD7}
+	EndGlobalSection
+EndGlobal

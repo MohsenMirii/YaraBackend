@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Yara.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Yara.WebApi.Controllers.AccountController.CreateAccount(DataModel.Account.CreateAccountDTO)">
+            <summary>
+            ساخت اکانت
+            </summary>
+            <remarks>
+            سلام &#xA;
+            سلام1 &#xA;
+            سلام2 &#xA;
+            </remarks>
+            <response code="200"> پاسخ صحیح</response>
+        </member>
+    </members>
+</doc>

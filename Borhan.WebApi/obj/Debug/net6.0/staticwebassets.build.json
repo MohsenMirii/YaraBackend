@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ao3YQLcO3dnebF8g4g4ugyjC4SC9QcCAiCbl55Ov7FU=",
+  "Source": "Yara.WebApi",
+  "BasePath": "_content/Yara.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

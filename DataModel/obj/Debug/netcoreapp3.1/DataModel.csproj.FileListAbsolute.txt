@@ -1,0 +1,19 @@
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\DataModel\bin\Debug\netcoreapp3.1\DataModel.deps.json
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\DataModel\bin\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\DataModel\bin\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\DataModel\obj\Debug\netcoreapp3.1\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\DataModel\obj\Debug\netcoreapp3.1\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\DataModel\obj\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\DataModel\obj\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\DataModel\obj\Debug\netcoreapp3.1\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\DataModel\obj\Debug\netcoreapp3.1\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\DataModel\obj\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\DataModel\obj\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\DataModel\bin\Debug\netcoreapp3.1\DataModel.deps.json
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\DataModel\bin\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\DataModel\bin\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\DataModel\obj\Debug\netcoreapp3.1\DataModel.csproj.AssemblyReference.cache

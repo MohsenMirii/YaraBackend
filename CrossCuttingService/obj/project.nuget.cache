@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Q6DUn9Tz/OO3VqLezXh1JmBU6/7BMAi7GC397OUGRKWxRBuZT1BGMex1xTEhtrue8S4xVpUJ3bipaSchBF1Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Yara\\From Borhan\\BackEnd\\CrossCuttingService\\CrossCuttingService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.8\\microsoft.aspnetcore.cryptography.internal.6.0.8.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.8\\microsoft.aspnetcore.cryptography.keyderivation.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

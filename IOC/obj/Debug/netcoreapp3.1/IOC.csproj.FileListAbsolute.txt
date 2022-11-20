@@ -1,0 +1,38 @@
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\IOC.deps.json
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\IOC.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\IOC.pdb
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\CrossCuttingService.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\CrossCuttingService.pdb
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.csproj.CopyComplete
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.dll
+C:\Users\Administrator\Desktop\M.khodayariBorhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.pdb
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\IOC.deps.json
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\IOC.dll
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\IOC.pdb
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\CrossCuttingService.dll
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\CrossCuttingService.pdb
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\bin\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.dll
+C:\Users\Lenovo\Desktop\Yara\From Borhan\BackEnd\IOC\obj\Debug\netcoreapp3.1\IOC.pdb
